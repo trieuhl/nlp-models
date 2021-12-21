@@ -1,6 +1,7 @@
 Pre-trained models
 
 1. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al., 2019)[[paper]](https://arxiv.org/pdf/1810.04805.pdf) [[github]](https://github.com/huggingface/transformers)
-|<img src="figs/bert.png" width="350"> |
-|--------------------------------------|
-|BERT (Devlin et al., 2019)|
+<p align="center">
+    <img src="figs/bert.png" width="500"/>
+    BERT (Devlin et al., 2019)
+</p>
