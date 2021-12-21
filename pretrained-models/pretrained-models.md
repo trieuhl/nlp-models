@@ -6,3 +6,9 @@ Pre-trained models
     <br>
         <em>BERT (Devlin et al., 2019)</em>
 </p>
+- Compare with:
+    - OpenAI GPT: finetune-based, Transformer-based, left-to-right
+    - ELMo: feature-based, left-to-right and right-to-left representations
+    - GloVe: word representations
+
+- Architecture: Transformer (Vaswani et al., 2017)
